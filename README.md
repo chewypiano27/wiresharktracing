@@ -143,3 +143,38 @@ Simply copy the outputted data into a file with a .kml extension.
 
 
 ## Step 3: Transposing data to Google Maps
+
+Take your .kml file to https://www.google.com/mymaps.
+
+Create a new map.
+
+Click import a new layer.
+
+<img width="293" alt="Image" src="https://github.com/user-attachments/assets/e6d3e1b7-67f4-46b9-8d44-0090482a2c9f" />
+
+
+After it loads, your map might look something like this:
+
+<img width="1063" alt="Image" src="https://github.com/user-attachments/assets/ae3d4d58-e55c-4b68-801f-a61c65667834" />
+
+Tutorial complete :)
+
+## Future implementation
+
+Here are a few ideas off the top of my head to further extend the depth of this project:
+
+**Automatic External IP Retrieval**
+
+Currently, the script requires manual input of the source/local IP address. A valuable improvement would be to automatically retrieve the external/public IP address. This can be achieved using various online services or libraries (requests library)
+
+**Enhanced KML Output**
+
+The KML output could be enriched with additional information such as:
+
+Chronological timestamp visualisation of network traffic from PCAP data.
+
+Including information about the size and protocol used of the data packets
+
+Custom icons for the placemarks, representing different types of network events.
+
+Interactive elements in the KML; perhaps pop-up windows with detailed packet information.
