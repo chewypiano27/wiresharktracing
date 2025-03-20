@@ -156,6 +156,10 @@ After it loads, your map might look something like this:
 
 <img width="1063" alt="Image" src="https://github.com/user-attachments/assets/ae3d4d58-e55c-4b68-801f-a61c65667834" />
 
+Clicking on a line tells you what the IP address associated is.
+
+<img width="1265" alt="Image" src="https://github.com/user-attachments/assets/2658fa6a-d92f-4317-b00c-3c6b37fab5df" />
+
 Tutorial complete :)
 
 ## Future implementation
