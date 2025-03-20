@@ -11,7 +11,7 @@ Other than a Python IDE, you will need the following resources:
 
 This database will be utilised to translate an IP address into a geolocation (longitude & latitude). 
 
-The database can be downloaded at: https://github.com/mbcc2006/GeoLiteCity-data
+The database can be downloaded at in the files section of this repo.
 
 **Wireshark**
 
