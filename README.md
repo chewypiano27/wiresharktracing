@@ -1,5 +1,4 @@
-# wiresharktracing
-Network tracing using Wireshark, Python and KML.
+# Network tracing using Wireshark, Python and KML.
 
 <img width="1063" alt="Image" src="https://github.com/user-attachments/assets/ae3d4d58-e55c-4b68-801f-a61c65667834" />
 
