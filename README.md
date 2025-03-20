@@ -160,7 +160,11 @@ Clicking on a line tells you what the IP address associated is.
 
 <img width="1265" alt="Image" src="https://github.com/user-attachments/assets/2658fa6a-d92f-4317-b00c-3c6b37fab5df" />
 
+
+
 Tutorial complete :)
+
+
 
 ## Future implementation
 
